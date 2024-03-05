@@ -41,7 +41,7 @@ The Attendance Tracking System is a web application developed to help users trac
 
 ## Contributors
 
-- [DHruv Raghuwansh](https://github.com/dhruvsinghraghu)
+- [DHruv Raghuwansh](https://github.com/dhruvsinghraghuwanshi)
 
 ## License
 
